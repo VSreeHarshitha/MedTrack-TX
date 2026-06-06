@@ -1,0 +1,7 @@
+datasets/
+Downloads/
+ISIC2018/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pth
